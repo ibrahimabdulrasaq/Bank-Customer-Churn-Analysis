@@ -5,7 +5,7 @@ This repository contains a comprehensive bank customer churn analysis, encompass
 
 Customer churn is a major challenge in the banking industry, as losing customers directly impacts revenue and long-term growth. This project presents an end-to-end customer churn analysis aimed at identifying the key factors that influence customer attrition and providing actionable insights to improve customer retention.
 
-The project covers the entire data analytics lifecycle, from data cleaning and preparation to exploratory analysis, visualization, and business recommendations.
+This project covers the entire data analytics lifecycle, from data cleaning and preparation to exploratory analysis, visualization, and business recommendations.
 
 ## Project Objectives
 
