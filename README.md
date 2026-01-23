@@ -207,7 +207,7 @@ Overall, the findings demonstrate that customer experience and engagement are th
 
 This analysis identifies the key drivers of bank customer churn, showing that engagement and customer experience have a greater impact than financial factors. The insights enable targeted retention strategies that can reduce churn, improve customer lifetime value, and support more effective, data-driven decision-making.
 
-🔗 [Link to the PowerPoint Slide Report](https://docs.google.com/presentation/d/1JL0MsGI7g2Lg2xJzdfRp8nqG2xNvhBDx/edit?usp=drive_link&ouid=110710168789266265367&rtpof=true&sd=true)
+🔗 [Link to the PowerPoint Slide Report](https://docs.google.com/presentation/d/1PUCP3OWMmNBXHllhe3my1h2vJXYV6Vtj/edit?usp=drivesdk&ouid=110710168789266265367&rtpof=true&sd=true)
 
 ### Analysis By:
 Ibrahim Abdulrasaq | Data Analyst & BI Enthusiast
