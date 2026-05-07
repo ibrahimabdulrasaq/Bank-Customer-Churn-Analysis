@@ -75,7 +75,8 @@ After cleaning, the dataset was imported into Power BI for modeling and analysis
 
 Modeling Approach: I established a single fact table structure
 
-<img width="197" height="440" alt="Single Fact Table" src="https://github.com/user-attachments/assets/8ab09e3d-088e-447b-9264-ec445eb39972" />
+<img width="916" height="520" alt="image" src="https://github.com/user-attachments/assets/bd33c67d-efd8-48a8-863b-7c531278f898" />
+
 
 ## DAX Measures
 
