@@ -117,7 +117,7 @@ Dashboard 1: Churn Overview & Customer Profile
 
 This dashboard provides a high-level view of customer churn and key demographic patterns.
 
-<img width="788" height="451" alt="Bank Customer Churn (Overview)" src="https://github.com/user-attachments/assets/de05e848-ee9c-4916-aa2d-800189fb7100" />
+<img width="911" height="518" alt="Page 1" src="https://github.com/user-attachments/assets/84b32f1a-a3b2-46b7-8ed4-dc4b17054f12" />
 
 ## Key Metrics from the dashboard
 
@@ -145,7 +145,7 @@ Dashboard 2: Customer Behavior & Financial Profile
 
 This dashboard focuses on customer behavior, financial attributes, and experience indicators.
 
-<img width="792" height="451" alt="Bank Customer Churn (Customer Profile)" src="https://github.com/user-attachments/assets/1b39c1e5-01ff-406e-ba98-715de6c247f0" />
+<img width="915" height="519" alt="Page 2" src="https://github.com/user-attachments/assets/2cfe8633-be1a-4402-825c-29cfde49b716" />
 
 ## Key Metrics from the dashboard
 
@@ -167,9 +167,9 @@ This dashboard focuses on customer behavior, financial attributes, and experienc
 
 * New customers (0–2 years tenure) are more likely to churn
 
-Dashboard 3: Table Summary
+Dashboard 3: Executive Summary
 
-<img width="789" height="452" alt="Bank Customer Churn (Summary)" src="https://github.com/user-attachments/assets/78538e3b-139b-48c5-99a8-f868f9514368" />
+<img width="910" height="519" alt="Page 3" src="https://github.com/user-attachments/assets/035c2e1f-5678-42a4-b077-ee4a6a5efc62" />
 
 ## Overall Findings
 
@@ -207,10 +207,10 @@ Overall, the findings demonstrate that customer experience and engagement are th
 
 This analysis identifies the key drivers of bank customer churn, showing that engagement and customer experience have a greater impact than financial factors. The insights enable targeted retention strategies that can reduce churn, improve customer lifetime value, and support more effective, data-driven decision-making.
 
-🔗 [Link to the PowerPoint Slide Report](https://docs.google.com/presentation/d/1PUCP3OWMmNBXHllhe3my1h2vJXYV6Vtj/edit?usp=drivesdk&ouid=110710168789266265367&rtpof=true&sd=true)
+🔗 [Link to the PowerPoint Slide Report](https://docs.google.com/presentation/d/1PUCP3OWMmNBXHllhe3my1h2vJXYV6Vtj/edit?usp=drive_link&ouid=110710168789266265367&rtpof=true&sd=true)
 
 ### Analysis By:
-Ibrahim Abdulrasaq | Data Analyst & BI Enthusiast
+Ibrahim Abdulrasaq | Data Analyst & BI Analyst
 
 Connect with Me 👇
 
