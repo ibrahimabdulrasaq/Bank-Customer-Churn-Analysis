@@ -71,12 +71,9 @@ Table Sample
 
 ## Data Modeling
 
-After cleaning, the dataset was imported into Power BI for modeling and analysis.
+After cleaning, the dataset was imported into Power BI for further analysis. I established a single fact table structure:
 
-Modeling Approach: I established a single fact table structure
-
-<img width="916" height="520" alt="image" src="https://github.com/user-attachments/assets/bd33c67d-efd8-48a8-863b-7c531278f898" />
-
+<img width="225" height="424" alt="Screenshot 2026-05-07 201650" src="https://github.com/user-attachments/assets/dab8d240-3525-4ae3-bde7-83147e1ae75b" />
 
 ## DAX Measures
 
@@ -90,13 +87,11 @@ I created calculated measures using DAX, including:
 
 * Active & Inactive Customers
 
-<img width="641" height="166" alt="Screenshot 2026-01-23 001317" src="https://github.com/user-attachments/assets/56e9b595-0ad3-400f-9b10-e528211d9d5b" />
-
 ## Exploratory Data Analysis (EDA)
 
 An exploratory analysis was conducted to understand patterns, distributions, and relationships between variables.
 
-Key Areas Explored
+Key Areas Explored:
 
 * Churn distribution across gender and age groups
 
@@ -118,7 +113,7 @@ Dashboard 1: Churn Overview & Customer Profile
 
 This dashboard provides a high-level view of customer churn and key demographic patterns.
 
-<img width="911" height="518" alt="Page 1" src="https://github.com/user-attachments/assets/84b32f1a-a3b2-46b7-8ed4-dc4b17054f12" />
+<img width="916" height="520" alt="Page 1" src="https://github.com/user-attachments/assets/9a5885b2-42ea-465f-b8fb-e1a60b5ac6f3" />
 
 ## Key Metrics from the dashboard
 
@@ -208,10 +203,12 @@ Overall, the findings demonstrate that customer experience and engagement are th
 
 This analysis identifies the key drivers of bank customer churn, showing that engagement and customer experience have a greater impact than financial factors. The insights enable targeted retention strategies that can reduce churn, improve customer lifetime value, and support more effective, data-driven decision-making.
 
-🔗 [Link to the PowerPoint Slide Report](https://docs.google.com/presentation/d/1PUCP3OWMmNBXHllhe3my1h2vJXYV6Vtj/edit?usp=drive_link&ouid=110710168789266265367&rtpof=true&sd=true)
+## PowerPoint Report
 
-### Analysis By:
-Ibrahim Abdulrasaq | Data Analyst & BI Analyst
+🔗 [Click here to access the PowerPoint slides](https://docs.google.com/presentation/d/1PUCP3OWMmNBXHllhe3my1h2vJXYV6Vtj/edit?usp=drive_link&ouid=110710168789266265367&rtpof=true&sd=true)
+
+## Analysis By
+Ibrahim Abdulrasaq | Data & BI Analyst
 
 Connect with Me 👇
 
